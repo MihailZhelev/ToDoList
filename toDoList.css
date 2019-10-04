@@ -1,0 +1,33 @@
+#todoTxt {
+    text-align: center;
+    color:rgb(32, 96, 64)
+}
+#typeText {
+    height: 40px;
+    width: 400px;
+    margin-left:34%;
+    border-radius: 15px;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+}
+#addedToDos {
+    max-height:100% ;
+    width: 400px;
+    margin: 10px 0 0 34%;
+    border: 1px solid white;
+    border-radius: 6px;
+    visibility: hidden;
+    background-color: rgb(32, 96, 64)
+}
+#addBtn {
+    height: 40px;
+    width: 60px;
+    border-radius: 15px;
+    background-color:rgb(32, 96, 64);
+    color:white;
+    font-size: 15px;   
+}
+html {
+    background-color: black;
+}
